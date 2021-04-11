@@ -7,6 +7,7 @@
     Mood_Regression.ipynb       => notebook for finding score of perticular mood
 
 ## Dataset :
+    Whole songs dataset link     : https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification
     features_30_sec.csv         => features csv file of 30 sec clip from genres_original's song
     features_3_sec.csv          => features csv file of 3 sec clip from genres_original's song
     Mood_Dataset.csv            => Dataset used to predict score of perticular mood.
