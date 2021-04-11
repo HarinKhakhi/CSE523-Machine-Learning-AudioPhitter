@@ -15,8 +15,12 @@
     ML_Endsem_Report.pdf        => End sem report.
     ML_Midsem_Report.pdf        => Mid sem report.
 
+## Presentations :
+    Audiophitters_End_Sem_Project_Presentation.pptx => End sem Presentation
+    Audiophitters_Mid_Sem_Project_Presentation.pptx => Mid sem Presentation
+
 ## Results :
-    ### For Genre Classification:
+    For Genre Classification:
         SVM_Confusion.png       => Confusion Matrix of SVM Classifier
         LR_Confusion.png        => Confusion Matrix of Logistic Regression
         KNN_Confusion.png       => Confusion Matrix of KNeighbors Classifier
@@ -26,7 +30,7 @@
 
         finaltable.png          => Final Table consisting of all three models data
 
-    ### For Mood Tagging : 
+    For Mood Tagging : 
         Cost_Happiness.png      => Cost vs Iterations of Happiness Mood Regression Model
         Cost_Energeticness.png  => Cost vs Iterations of Energeticness Mood Regression Model
 
